@@ -10,7 +10,8 @@ textlayout-widget {
 ```
 
 ![Screenshot](screenshot.png "Screenshot")
-The most right widget is the **tile** layout symbol (`[]=`) used in DWM.
+
+The rightmost widget is the **tile** layout symbol (`[]=`) used in DWM.
 
 ## Installation
 
